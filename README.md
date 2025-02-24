@@ -32,20 +32,14 @@
 
 ###
 
+<img align="right" height="330" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVwejBtNXRnaGd6NG5wNTNzc2xmaDlxYW9tczlsdDlhd3AwMXU3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1dFDLwXu4Qkwy7OJ0/giphy.gif"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GMonteiro2&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=GMonteiro2&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GMonteiro2&theme=elegant&area=false&hide_border=false" height="150" alt="activity-graph graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/GMonteiro2/GMonteiro2/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="214" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVwejBtNXRnaGd6NG5wNTNzc2xmaDlxYW9tczlsdDlhd3AwMXU3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1dFDLwXu4Qkwy7OJ0/giphy.gif"  />
 </div>
 
 ###
