@@ -19,7 +19,7 @@
  
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GMonteiro2&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Monteiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanagabriele&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gmonteiro2&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
   
 </div>
 
@@ -27,13 +27,12 @@
 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alanagabriele}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gmonteiro2}/count.svg" /></p> 
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 
 
-</div>.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/gmonteiro19_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
