@@ -7,6 +7,8 @@ I develop **automation solutions** and **backend applications** with a focus on 
 My background in **Computer Networks** allows me to build systems with a deep understanding of **connectivity and security**.
 
 I'm a **Computer Science** student passionate about solving complex problems through **code and data**.
+
+
 ---
 
 ## 🌐 Where to find me
